@@ -2,7 +2,7 @@
 
 const express = require('express');
 const https = require('https');
-const fs = requre('fs');
+const fs = require('fs');
 
 let app = express();
 
